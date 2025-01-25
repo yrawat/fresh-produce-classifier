@@ -4,8 +4,6 @@ The classifier uses image recognition techniques, typically leveraging convoluti
 
 ## Run the project
 
-* * *
-
 pip install --upgrade virtualenv  
 virtualenv env  
 ~your_path\\env\\Scripts\\activate
